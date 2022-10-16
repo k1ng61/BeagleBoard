@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BeagleBoard/static/css/main.367e6f00.css",
+    "main.js": "/BeagleBoard/static/js/main.e9337b71.js",
+    "static/js/787.f1fdb961.chunk.js": "/BeagleBoard/static/js/787.f1fdb961.chunk.js",
+    "index.html": "/BeagleBoard/index.html",
+    "main.367e6f00.css.map": "/BeagleBoard/static/css/main.367e6f00.css.map",
+    "main.e9337b71.js.map": "/BeagleBoard/static/js/main.e9337b71.js.map",
+    "787.f1fdb961.chunk.js.map": "/BeagleBoard/static/js/787.f1fdb961.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.367e6f00.css",
+    "static/js/main.e9337b71.js"
+  ]
+}
